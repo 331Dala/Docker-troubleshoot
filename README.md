@@ -1,7 +1,7 @@
 # Docker-troubleshoot  
 Record some probelms, when using Docker.(Just README file here)  
 
-##some Docker **command ** 
+## some Docker **command**  
 
 docker ps  
 (Show running containers)  
@@ -13,5 +13,5 @@ For delete image:
 docker stop <container_id>  
 docker rm <container_id>  
 
-##some **problem**
+## some Docker **problem**
 
